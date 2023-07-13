@@ -1,6 +1,6 @@
 RoGroupFinder
 ==============
-
+(NOT WORKING)
 Overview
 --------
 RoGroupFinder is a Python-based tool to find Roblox groups with a specific keyword in their description and at least one classic clothing asset. The tool consists of a command-line script (`RoGroupFinder.py`) and a graphical user interface (`gui.py`).
